@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>Portfolio-Bootstrap</b></h3>
+  <h3><b>Portfolio Project</b></h3>
 
 </div>
 
@@ -31,11 +31,11 @@
 
 # 📖 [Portfolio] <a name="about-project"></a>
 
-**[Portfolio]** This is my portfolio with Bootstrap.
+**[Portfolio]** This is my mobile version portfolio.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-html, css, Bootstrap, git, github.
+html, css, git, github.
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -44,7 +44,6 @@ html, css, Bootstrap, git, github.
   <ul>
     <li><a href="https://www.microverse.org/">HTML5</a></li>
     <li><a href="https://www.microverse.org/">CSS3</a></li>
-    <li><a href="https://www.microverse.org/">Bootstrap5</a></li>
     <li><a href="https://www.microverse.org/">Git</a></li>
   </ul>
 </details>
@@ -67,12 +66,12 @@ In this project best coding practices is use
 
 To get a local copy up and running, follow these steps.
 
-1. Go to this URL link: https://github.com/Alibaba2023/Portfolio-Bootstrap
+1. Go to this URL link: https://github.com/Alibaba2023/Portfolio.git
 2. clone the repo and start working on it.
 
 ## 🚀 Live Demo
 
-[] ()
+[link] (https://alibaba2023.github.io/My_Portfolio/)
 
 ### Prerequisites
 
@@ -108,7 +107,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Alibaba2023/Portfolio-Bootstrap
+  git clone https://github.com/Alibaba2023/Portfolio.git
 ```
 
 ### Install
@@ -140,7 +139,7 @@ StyleLint run:
 To run the project, execute the following command:
 
 ```sh
-  cd Portfolio-Bootstrap
+  cd Portfolio
   index.html
 ```
 
@@ -168,9 +167,8 @@ Your working browser.
 - Twitter: [@AliBabaHu2023](https://twitter.com/AliBabaHu2023)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-baba-hussaini-630607267/)
 
-👤 **Claudia P. R. Soto(Code partner)**
-
-- GitHub: [@Claudia](https://github.com/ClaudiaRojasSoto)
+👤 **Arthur Emanuel G. Iturres(Code partner)**
+- GitHub: [@ITurres](https://github.com/ITurres)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -181,7 +179,7 @@ Your working browser.
 
 
 - [ ] **[Desktop version]**
-- [ ] **[Responsive ]**
+- [ ] **[responsive ]**
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -201,7 +199,7 @@ If you like this project, don't forget to star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank Microverse Team and my partiners and my code partner.
+I would like to thank Microverse Team and my partiners
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
